@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Question Component 快照 1`] = `
+<div
+  class="wrapper"
+>
+  <label
+    for="input"
+  >
+    问题：
+  </label>
+   
+  <input
+    id="input"
+    type="text"
+  />
+   
+  <button>
+    click
+  </button>
+   
+  <p>
+    答案：
+  </p>
+   
+  <img
+    src=""
+  />
+   
+  <div>
+    <p>
+      同一个函数调用，返回值不同
+    </p>
+     
+    <button>
+      askType=0
+    </button>
+     
+    <button>
+      askType=1
+    </button>
+  </div>
+</div>
+`;
